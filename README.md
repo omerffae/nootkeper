@@ -1,6 +1,6 @@
 # NootKeeper
 
-**NootKeeper** Projesi, localde tuttugu 10mb'lık alanı kullanarak içerisinde norlarınızı tuttugunuz bir uygulamadır.🚀  
+**NootKeeper** Projesi, localde tuttugu 10mb'lık alanı kullanarak içerisinde notlarınızı tuttugunuz bir uygulamadır.🚀  
 
 ![Proje Görseli](nootkeper-gif.gif)  
 
